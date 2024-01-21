@@ -1,7 +1,7 @@
 package com.application;
 
 /***
- * @author Frank
+ * @author shiri
  */
 public class MortgageCalculatorApp {
 	
